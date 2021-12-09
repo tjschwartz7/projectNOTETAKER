@@ -16,4 +16,14 @@ This will instead allow me to go on a file-by-file basis and just utilize multip
 (as long as I keep updating it this with organizational improvements).
 Its not great, but I like it.
 
+-Update 3
+In the process of adding a graphing calculator. I've created an infix-to-postfix function using shunting yard,
+and am working on converting that postfix to a solution. After this is complete, I am
+planning on adding options for user input (graph, solve for x, et cetera). I am planning on graphing using plotly.
+This - is literally going to be just a worse mathway. Why use it? Because its convenient! Probably. Actually, its totally inconvenient right now. 
+Will continue to update. 
+These notes are gonna be good, ya'll.
+
+
+
 Made by Trenton Schwartz
